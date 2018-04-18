@@ -20,6 +20,7 @@ public class examprac2 {
     public static void main(String[] args) {
         // Efrain Eduardo Landaverde Gonzalez
         //Vincent Steve Torres Sanchez
+        int lk;
         int op=0;
         double total = 0;
         int cantEmpleado = 0;
