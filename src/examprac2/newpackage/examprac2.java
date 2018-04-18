@@ -58,7 +58,7 @@ public class examprac2 {
                      sf=salario-desc;
                      total=salarioH[i]*numeroHoras[i];
                      
-                        JOptionPane.showMessageDialog(null, "Registros\n Nombre: "+nombre[i]+"\n Salario por hora:"+salarioH[i]+"\n Numero de horas:"+numeroHoras[i]+"\n Salario Final:"+sf);
+                        JOptionPane.showMessageDialog(null, "Registros\n Nombre: "+salarioH[i]+"\n Salario por hora:"+salarioH[i]+"\n Numero de horas:"+numeroHoras[i]+"\n Salario Final:"+sf);
                       }
                      JOptionPane.showMessageDialog(null, "El total de la planilla" +total);
                      
